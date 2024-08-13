@@ -1,0 +1,63 @@
+2024-08-07 15:18:54 Open Program
+2024-08-07 15:18:56 Close Program
+2024-08-07 15:19:33 Open Program
+2024-08-07 15:19:34 Close Program
+2024-08-07 15:19:56 Open Program
+2024-08-07 15:19:57 Close Program
+2024-08-07 15:20:19 Open Program
+2024-08-07 15:20:21 Close Program
+2024-08-07 15:22:05 Open Program
+2024-08-07 15:22:08 Close Program
+2024-08-07 15:23:18 Open Program
+2024-08-07 15:23:46 Close Program
+2024-08-07 15:25:49 Open Program
+2024-08-07 15:26:27 Close Program
+2024-08-07 19:09:53 Open Program
+2024-08-07 19:09:54 Close Program
+2024-08-07 23:30:11 Open Program
+2024-08-07 23:30:33 Extract Successfully
+2024-08-07 23:30:44 Extract Successfully
+2024-08-07 23:31:01 Search Successfully
+2024-08-07 23:31:10 Insert Successfully
+2024-08-07 23:32:35 Close Program
+2024-08-09 20:52:29 Open Program
+2024-08-09 20:57:25 Close Program
+2024-08-09 20:57:50 Open Program
+2024-08-09 21:05:51 Open Program
+2024-08-09 21:08:46 Close Program
+2024-08-09 21:11:25 Open Program
+2024-08-09 21:11:42 Close Program
+2024-08-09 21:11:49 Open Program
+2024-08-09 21:12:41 Close Program
+2024-08-09 21:31:15 Open Program
+2024-08-09 21:31:28 Single Excel Search Successfully
+2024-08-09 21:31:31 Close Program
+2024-08-09 21:31:47 Open Program
+2024-08-09 21:32:01 Close Program
+2024-08-09 21:33:06 Open Program
+2024-08-09 21:33:08 Close Program
+2024-08-09 21:48:07 Open Program
+2024-08-09 21:48:08 Close Program
+2024-08-09 22:05:45 Open Program
+2024-08-09 22:05:46 Single Excel Search Successfully
+2024-08-09 22:05:48 Close Program
+2024-08-09 22:10:54 Open Program
+2024-08-09 22:11:02 Close Program
+2024-08-09 22:11:26 Open Program
+2024-08-09 22:11:52 Close Program
+2024-08-13 21:47:33 Open Program
+2024-08-13 21:49:34 Extract Successfully
+2024-08-13 21:50:02 Search Successfully
+2024-08-13 21:50:07 Insert Successfully
+2024-08-13 21:50:42 Close Program
+2024-08-14 00:44:10 Open Program
+2024-08-14 00:44:11 Close Program
+2024-08-14 00:45:12 Open Program
+2024-08-14 00:45:32 Multiple Excel Search Successfully
+2024-08-14 00:45:40 Multiple Excel Search Successfully
+2024-08-14 00:45:46 Multiple Excel Search Successfully
+2024-08-14 00:45:52 Multiple Excel Search Successfully
+2024-08-14 00:45:54 Close Program
+2024-08-14 00:45:58 Open Program
+2024-08-14 00:46:12 Multiple Excel Search Successfully
+2024-08-14 00:46:14 Close Program
