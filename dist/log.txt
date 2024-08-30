@@ -22,3 +22,13 @@
 2024-08-28 20:35:53 Close Program
 2024-08-28 20:36:02 Open Program
 2024-08-28 20:36:23 Close Program
+2024-08-29 00:16:09 Open Program
+2024-08-29 00:16:12 Close Program
+2024-08-30 17:52:38 Open Program
+2024-08-30 17:52:50 Extract Successfully
+2024-08-30 18:54:44 Open Program
+2024-08-30 18:55:22 Open Settings
+2024-08-30 18:55:23 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 0}
+2024-08-30 18:55:31 Extract Successfully
+2024-08-30 21:02:37 Open Program
+2024-08-30 21:03:03 Close Program
