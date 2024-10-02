@@ -1,34 +1,48 @@
-2024-08-28 20:24:56 Open Program
-2024-08-28 20:24:58 Close Program
-2024-08-28 20:25:13 Open Program
-2024-08-28 20:25:15 Close Program
-2024-08-28 20:28:22 Open Program
-2024-08-28 20:28:23 Close Program
-2024-08-28 20:28:40 Open Program
-2024-08-28 20:28:59 Close Program
-2024-08-28 20:30:09 Open Program
-2024-08-28 20:30:14 Close Program
-2024-08-28 20:31:59 Open Program
-2024-08-28 20:32:02 Close Program
-2024-08-28 20:33:24 Open Program
-2024-08-28 20:33:27 Close Program
-2024-08-28 20:33:41 Open Program
-2024-08-28 20:33:45 Close Program
-2024-08-28 20:34:45 Open Program
-2024-08-28 20:34:50 Close Program
-2024-08-28 20:35:02 Open Program
-2024-08-28 20:35:06 Close Program
-2024-08-28 20:35:27 Open Program
-2024-08-28 20:35:53 Close Program
-2024-08-28 20:36:02 Open Program
-2024-08-28 20:36:23 Close Program
-2024-08-29 00:16:09 Open Program
-2024-08-29 00:16:12 Close Program
-2024-08-30 17:52:38 Open Program
-2024-08-30 17:52:50 Extract Successfully
-2024-08-30 18:54:44 Open Program
-2024-08-30 18:55:22 Open Settings
-2024-08-30 18:55:23 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 0}
-2024-08-30 18:55:31 Extract Successfully
-2024-08-30 21:02:37 Open Program
-2024-08-30 21:03:03 Close Program
+2024-10-01 21:19:38 Open Program
+2024-10-01 21:19:38 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:20:00 Open Settings
+2024-10-01 21:20:01 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:20:03 Open Settings
+2024-10-01 21:20:04 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:20:06 Close Program
+2024-10-01 21:20:20 Open Program
+2024-10-01 21:20:28 Close Program
+2024-10-01 21:20:53 Open Program
+2024-10-01 21:20:57 Close Program
+2024-10-01 21:29:36 Open Program
+2024-10-01 21:29:39 Close Program
+2024-10-01 21:30:03 Open Program
+2024-10-01 21:30:06 Close Program
+2024-10-01 21:30:37 Open Program
+2024-10-01 21:30:40 Open Settings
+2024-10-01 21:30:41 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:30:47 Close Program
+2024-10-01 21:35:10 Open Program
+2024-10-01 21:35:13 Open Settings
+2024-10-01 21:35:14 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:35:15 Open Settings
+2024-10-01 21:35:16 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:35:18 Open Settings
+2024-10-01 21:35:19 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:35:28 Open Settings
+2024-10-01 21:35:39 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:35:41 Close Program
+2024-10-01 21:35:55 Open Program
+2024-10-01 21:36:12 Close Program
+2024-10-01 21:39:14 Open Program
+2024-10-01 21:39:16 Open Settings
+2024-10-01 21:39:17 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:39:20 Close Program
+2024-10-01 21:39:47 Open Program
+2024-10-01 21:40:08 Close Program
+2024-10-01 21:59:31 Open Program
+2024-10-01 21:59:31 Current Settings: {'path': '.\\img', 'auto_update': 1, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 21:59:40 Close Program
+2024-10-01 22:00:04 Open Program
+2024-10-01 22:00:08 Open Settings
+2024-10-01 22:00:09 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 22:00:40 Open Settings
+2024-10-01 22:00:41 Current Settings: {'path': '.\\img', 'auto_update': 0, 'auto_delete': 1, 'auto_backup': 1}
+2024-10-01 22:00:44 Close Program
+2024-10-01 22:20:04 Open Program
+2024-10-01 22:20:27 Close Program
