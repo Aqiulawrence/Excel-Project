@@ -103,8 +103,8 @@
   ('tk86t.dll',
    'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\tk86t.dll',
    'BINARY'),
-  ('VCRUNTIME140.dll', 'C:\\WINDOWS\\system32\\VCRUNTIME140.dll', 'BINARY'),
   ('zlib1.dll',
    'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\zlib1.dll',
-   'BINARY')],
+   'BINARY'),
+  ('VCRUNTIME140.dll', 'C:\\WINDOWS\\system32\\VCRUNTIME140.dll', 'BINARY')],
  'C:\\Users\\Admin\\AppData\\Local\\Programs\\Python\\Python312\\DLLs\\_tkinter.pyd')
